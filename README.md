@@ -1,24 +1,29 @@
 # vue-weather
+# First you need to install the dependencies
 
 ## Project setup
-```
+
+1.
+# For Windows users
+~~~
+Npm Install
+~~~
+# For Mac users
+~~~
 yarn install
-```
+~~~
 
-### Compiles and hot-reloads for development
-```
+2. Then you need to create an account in 
+~~~
+https://home.openweathermap.org/
+~~~
+And Paste the APi key into your project.
+
+3.
+Run the server for run the vue App
+~~~
+npm run serve
+# OR
 yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+~~~
+Run this command and you are good to Go.
