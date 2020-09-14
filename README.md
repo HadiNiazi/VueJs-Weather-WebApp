@@ -1,19 +1,20 @@
 # vue-weather
-# First you need to install the dependencies
+First you need to install the dependencies
 
-## Project setup
+Project setup
 
 1.
-# For Windows users
+For Windows users
 ~~~
 Npm Install
 ~~~
-# For Mac users
+For Mac users
 ~~~
 yarn install
 ~~~
 
-2. Then you need to create an account in 
+2. 
+Then you need to create an account in 
 ~~~
 https://home.openweathermap.org/
 ~~~
